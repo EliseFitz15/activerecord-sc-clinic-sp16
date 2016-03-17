@@ -1,3 +1,5 @@
+## Clinic Challenge
+
 Design a schema and create the necessary migrations and models to represent artists and the venues where they perform:
 * Draw out the ER Diagram on paper so that you can understand what data you will need to save and the relationships that you will need to create.
 * Include database constraints and model validations where appropriate.
@@ -23,7 +25,7 @@ Design a schema and create the necessary migrations and models to represent arti
 #### Create a Seeder File
 
 * This file should be located at db/seeds.rb
-* It should contain the code to create, at least, three artists, two venues and at least one relation between the two. 
+* It should contain the code to create, at least, three artists, two venues and at least one relation between the two.
 * Check that it works by running `rake db:seed.`
 
 ### Tips
