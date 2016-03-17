@@ -16,7 +16,7 @@ Design a schema and create the necessary migrations and models to represent arti
 
 #### Venue
 
-* A venue must have a name.
+* A venue must have a location name.
 * A venue can optionally have a person capacity.
 * A venue can have many artists performing at it.
 
