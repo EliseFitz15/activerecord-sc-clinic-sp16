@@ -20,6 +20,12 @@ Design a schema and create the necessary migrations and models to represent arti
 * A venue can optionally have a person capacity.
 * A venue can have many artists performing at it.
 
+#### Create a Seeder File
+
+* This file should be located at db/seeds.rb
+* It should contain the code to create, at least, three artists, two venues and at least one relation between the two. 
+* Check that it works by running `rake db:seed.`
+
 ### Tips
 
 * You should feel free to add whatever additional migrations/models etc. you need to make these associations work.
